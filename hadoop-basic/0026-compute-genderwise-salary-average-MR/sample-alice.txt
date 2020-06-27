@@ -1,0 +1,1 @@
+hello world this is a test to check the average of each lettered word, hopefully this will give a great result

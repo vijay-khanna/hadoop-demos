@@ -1,0 +1,36 @@
+git --version
+
+git init
+
+git status
+
+git add *
+
+git commit -m "first commit "
+
+
+git help config
+
+
+git config --global user.username <username>
+e.g. : git config --global user.username vijay-khanna
+
+git remote add origin https://github.com/<new-repo>.git
+e.g. : git remote add origin https://github.com/vijay-khanna/hadoop-samples.git
+
+git push origin master			//supply email and password to prompt. Check online to verify
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

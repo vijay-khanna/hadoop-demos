@@ -1,0 +1,6 @@
+John,M,10000
+Anita,F,50000
+George,M,4000
+Maven,F,35000
+Tika,M,2000
+Bina,F,3500
